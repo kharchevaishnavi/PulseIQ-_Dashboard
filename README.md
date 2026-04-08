@@ -48,7 +48,7 @@ streamlit run app.py
 
 🌐 Live Demo
 
-(Add your Streamlit link here after deployment)
+https://pulseiq-dashboard-etwppbv3cfspvdc6dhgn5x.streamlit.app/
 
 ---
 
